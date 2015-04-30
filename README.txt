@@ -1,5 +1,5 @@
 On The Beach Test
-Outor: John Manzno
+Outor: John Manzano
 Date:30.04.15
 
 <------PRE REQUIREMENTS--->
