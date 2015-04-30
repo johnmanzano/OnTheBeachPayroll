@@ -7,7 +7,7 @@ BEGIN
 	SELECT 
 		e.id as employeee_id,
 		e.name, 
-		cast(s.annual_amount / c.conversion_factor as  decimal(18,2)) as annual_amount
+		cast(s.annual_amount / c.conversionFactor as  decimal(18,2)) as annual_amount
 	FROM
 		Employees e
 		JOIN Salaries s on s.employee_id = e.id
